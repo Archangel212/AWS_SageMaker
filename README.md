@@ -1,1 +1,1 @@
-# AWS_SageMaker
+# GAN_jupyter_notebooks
